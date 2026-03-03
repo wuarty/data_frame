@@ -1,0 +1,14 @@
+id,nome,idade,cidade,gasto_alimentacao,gasto_transporte,gasto_lazer
+1,Ana,25,São Paulo,800,150,200
+2,Breno,30,Rio de Janeiro,600,200,150
+3,Camila,22,Belo Horizonte,700,100,250
+4,Carlos,32,Porto Alegre,900,220,300
+5,Daniel,28,Curitiba,650,180,100
+6,Elisa,35,Porto Alegre,900,220,300
+7,Felipe,27,Salvador,750,160,180
+8,Gabriela,24,Recife,620,140,120
+9,Hugo,32,Fortaleza,880,210,230
+10,Isabela,29,Florianópolis,700,170,190
+11,João,26,Vitória,680,150,160
+12,Maria,28,Belo Horizonte,700,170,190
+13,Pedro,30,Rio de Janeiro,600,200,150
